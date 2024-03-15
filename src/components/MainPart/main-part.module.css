@@ -1,0 +1,12 @@
+.container{
+    width:70%;
+    height:100vh;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:20px 40px;
+    overflow-y: auto;
+
+}

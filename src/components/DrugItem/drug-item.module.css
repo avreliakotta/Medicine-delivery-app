@@ -1,0 +1,16 @@
+.item{
+    width: calc((100% / 2 -50px) * 1); 
+    height:auto;
+    border:1px solid #e8e8e8;
+    border-radius:12px; 
+}
+.addBtn{
+    cursor:pointer;
+    width:100px;
+    height:40px;
+    border-radius:10px;
+    border:none;
+    border: 1px solid #e8e8e8;
+    color:#121417;
+    background-color:#fff ; 
+}
